@@ -1,10 +1,5 @@
 # Multi_Printer-Klipper
-    <style>
-        li{
-          
-            color: #fff;
-        }
-    </style>
+
 
 <h4> User multi Printer on one RasPi by create multi instance by kihau </h4>
 
