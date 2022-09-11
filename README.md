@@ -1,15 +1,10 @@
 # Multi_Printer-Klipper
 
+<h4> User multi Printer on one RasPi by create multi instance by kihau </h4>
 
-
-<h1> User multi Printer on one RasPi by create multi instance by kihau </h1>
-
-
-
-Instuctions.
-
-1.) Download MainsailOS <br/>
-2.) Get Kiahu <br/>
-3.) Create instance 
-4.) List your Ports on Raspi 
-5.) Edit printer.conf 
+<ul>
+  <li> 1.) Download MainsailOS </li>
+  <li> 2.) Get Kiahu </li> 
+  <li> 3.) Get Kiahu </li>
+  <li> 2.) Get Kiahu </li>
+</ul>
