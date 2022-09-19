@@ -26,13 +26,9 @@
  
   <sub>👉 [Go to Kiauh and follow the instructions](https://github.com/th33xitus/kiauh)</sub>
    
-3️⃣ 
+3️⃣ Run Kiauh.sh 
  
- <pre>
-  cd ~
-
-git clone https://github.com/th33xitus/kiauh.git
-
-./kiauh/kiauh.sh
- </pre>
-
+ ```bash
+  cd ~/kiauh
+  
+  ./kiauh/kiauh.sh
