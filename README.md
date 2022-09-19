@@ -7,7 +7,7 @@
  
 
 <ul>
-  <li><p> 1.) Download MainsailOS </p> </li>
+  <li> 1.) Download MainsailOS </li>
   <li> 2.) Get Kiahu </li> 
   <li> 3.) Get Kiahu </li>
   <li> 2.) Get Kiahu </li>
