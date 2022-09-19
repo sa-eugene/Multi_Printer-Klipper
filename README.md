@@ -10,5 +10,7 @@
 <h1 align="center"> Creat and controll multiple Printer </h1>
 <p align="center"> simple guide to create multiple instances with MainsailOS and Kiahu<p>
 
-# 🛠️ Instructions:
+
+<h2> 🛠️ Instructions: </h2>
+<p> First we need to download some   </p>
 
