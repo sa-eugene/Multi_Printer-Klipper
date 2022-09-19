@@ -12,21 +12,27 @@
 
 
 
-<h3>📜 Introduction</h3>
+<h2>📜 Introduction</h2>
 <p> Creat multiple instances on one Raspberry Pi is very easy and helpful, if you have multiple and different Printers that you want control at one place.</p>
-<p>If you dont know how to start and new in the 3D Printer area please familiarize yourself wiht MainsaiOS and Kiauh. believe me it's very easy! </p>
+<sub>If you dont know how to start and new in the 3D Printer area please familiarize yourself wiht MainsaiOS and Kiauh. believe me it's very easy! </sub>
 
-<h3>🛠️ Instructions: </h3>
+<h2>🛠️ Instructions: </h2>
+
+1️⃣ Prepare and install MainsailOS
+
+ <sub>👉 [Go to MainsailOS and follow the instructions](https://github.com/mainsail-crew/MainsailOS)</sub>
+
+2️⃣ Access via ssh to Raspberry PI 
  
-<p>1️⃣ Prepare and install MainsailOS</p>
-
-  - 👉 [Go to MainsailOS and follow the instructions](https://github.com/mainsail-crew/MainsailOS)
+  <sub>👉 [Go to Kiauh and follow the instructions](https://github.com/th33xitus/kiauh)</sub>
+   
+3️⃣ 
  
-<p>2️⃣ Access via ssh to Raspberry PI </p>
- 
-   - 👉 [Go to Kiauh and follow the instructions](https://github.com/th33xitus/kiauh)
+ <pre>
+  cd ~
 
-<p>🟡 If you have done allright </p>
+git clone https://github.com/th33xitus/kiauh.git
 
-
+./kiauh/kiauh.sh
+ </pre>
 
