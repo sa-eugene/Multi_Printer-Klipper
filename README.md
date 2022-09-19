@@ -18,7 +18,15 @@
 
 <h3>🛠️ Instructions: </h3>
  
-[Get MainsailOS](https://github.com/mainsail-crew/MainsailOS) <br/>
-[Get MainsailOS](https://github.com/mainsail-crew/MainsailOS)
+
+* <p>Prepare and install MainsailOS</p>
+
+  * [Go to MainsailOS and follow the instructions](https://github.com/mainsail-crew/MainsailOS)
+ 
+ * <p>Access via ssh to Raspberry PI </p>
+ 
+   * [Get Kiauh](https://github.com/th33xitus/kiauh)
+
+
 
 
