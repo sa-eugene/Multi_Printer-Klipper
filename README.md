@@ -18,15 +18,15 @@
 
 <h3>🛠️ Instructions: </h3>
  
+<p>1️⃣ Prepare and install MainsailOS</p>
 
-* <p>Prepare and install MainsailOS</p>
-
-  * [Go to MainsailOS and follow the instructions](https://github.com/mainsail-crew/MainsailOS)
+  - 👉 [Go to MainsailOS and follow the instructions](https://github.com/mainsail-crew/MainsailOS)
  
- * <p>Access via ssh to Raspberry PI </p>
+<p>2️⃣ Access via ssh to Raspberry PI </p>
  
-   * [Get Kiauh](https://github.com/th33xitus/kiauh)
+   - 👉 [Go to Kiauh and follow the instructions](https://github.com/th33xitus/kiauh)
 
+<p>🟡 If you have done allright </p>
 
 
 
