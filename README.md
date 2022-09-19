@@ -8,7 +8,10 @@
 
 <ul>
   <li> 1.) Download MainsailOS </li>
-  <li> 2.) Get Kiahu </li> 
+  <li> 2.) Download Kiahu </li> 
   <li> 3.) Instanzen erzeugen </li>
   <li> 4.) UBS Port am RasPi auslesen </li>
 </ul>
+
+
+
