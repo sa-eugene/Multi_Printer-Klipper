@@ -31,4 +31,7 @@
  ```bash
   cd ~/kiauh
   
-  ./kiauh/kiauh.sh
+  ./kiauh.sh
+```
+ 
+![kiauh_1](https://user-images.githubusercontent.com/20955930/191097427-b494574b-7ee7-418b-aa7b-e4cb1bac5008.PNG)
